@@ -1,3 +1,23 @@
+Domain: Full Stack Python
+Timing of the batch: 3:00 PM - 4:00 PM
+
+Team Leader:
+Name: Rakesh Magapu
+Mail id: rakeshmagapu4@gmail.com
+College Name: Seshadri Rao Gudlavalleru Engineering College
+
+Team Members:
+1.	Name: Podugu Pravallika
+Mail id: pravallikapodugu661@gmail.com
+College Name: Seshadri Rao Gudlavalleru Engineering College
+
+2.	Name: Anakapalli Vasavi Sai Lakshmi
+Mail id: vasavi092002@gmail.com
+College Name: Seshadri Rao Gudlavalleru Engineering College
+
+3.	Name: Veera Venkata Satya Sai Nalamati
+Mail id: satyasainalamati@gmail.com
+College Name: Seshadri Rao Gudlavalleru Engineering College
 
 ### Installing Dependencies from requirements.txt
 
